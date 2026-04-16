@@ -21,7 +21,7 @@ const syne = Syne({
 });
 
 export const metadata = {
-  title: "HackVector — Cyber Intelligence Platform",
+  title: "EnReach Solution",
   description:
     "Advanced cyber intelligence, digital forensics, and threat detection for enterprises at the edge of tomorrow.",
   keywords: [
